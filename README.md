@@ -61,5 +61,5 @@ To build the jar file just run the `mvn package`.
 [INFO] Finished at: 2018-04-28T08:28:31-04:00
 [INFO] ------------------------------------------------------------------------
 ```
-# Licence
+# License
 MIT
